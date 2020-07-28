@@ -1,1 +1,1 @@
-[![Banner](https://kruithne.net/githubbanner.png)](https://kruithne.net)
+[![Banner](https://kruithne.net/githubbanner.png?v=1)](https://kruithne.net)
