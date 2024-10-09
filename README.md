@@ -8,3 +8,4 @@
 - 🎨 Author of [numerous 3D guides, scripts and tools on Patreon](https://www.patreon.com/kruithne) (📈55~ patrons)
 - 💬 Owner of [Tamara's Workbench](https://discord.com/invite/KtcBSxhgna) Discord server (📈1,400+ members)
 - 🥇 1st place winner of the [Melvor Idle 2023 Mod Contest](https://store.steampowered.com/app/1267910/Melvor_Idle/) with [Archaeology](https://mod.io/g/melvoridle/m/archaeology).
+- 🥇 1st place winner of the [Melvor Idle 2024 Mod Contest](https://store.steampowered.com/news/app/1267910/view/4593196078770502112) with [Melvor Multiplayer](https://mod.io/g/melvoridle/m/melvor-multiplayer).
